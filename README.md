@@ -50,5 +50,5 @@ Inside the GPO, under User Configuration > Administrative Templates > Control Pa
 - How OU design decides where Group Policy applies, because a GPO only affects the OU it is linked to
 - The difference between creating a GPO, linking it to an OU, and configuring the settings inside it
 - How group nesting simplifies permission management
-- [Add one thing that was tricky and how you solved it]
+- 
 
